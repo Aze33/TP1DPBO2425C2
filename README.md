@@ -3,12 +3,17 @@ Saya bernama Zahran Zaidan Saputra dengan NIM 2415429 mengerjakan TP1 dalam mata
 Konsep Desain
 
 Class & Atribut
-ProdukElektronik  : Desain ini berpusat pada satu class utama,yaitu "ProdukElektronik".
+-ProdukElektronik  : Desain ini berpusat pada satu class utama,yaitu "ProdukElektronik".
 
-Kode              : Sebagai ID unik untuk setiap produk barang.
+-Kode              : Sebagai ID unik untuk setiap produk barang.
+
 namaBarang        : Untuk mengidentifikasi nama dari sebuah produk elektronik.
+
 jenisBarang       : Untuk mengidentifikasi jenis barang dari suatu produk bisa saja Laptop atau HP.
+
 merek             : Untuk menamai merek dari sebuah produk
+
 berat             : Untuk mengetahui berat suatu produk dalam satuan kilogram.
+
 gambar(PHP)       : Untuk menampilkan gambar suatu produk
 
