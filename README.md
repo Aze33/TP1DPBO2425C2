@@ -4,6 +4,7 @@ Konsep Desain
 
 Class & Atribut
 ProdukElektronik  : Desain ini berpusat pada satu class utama,yaitu "ProdukElektronik".
+
 Kode              : Sebagai ID unik untuk setiap produk barang.
 namaBarang        : Untuk mengidentifikasi nama dari sebuah produk elektronik.
 jenisBarang       : Untuk mengidentifikasi jenis barang dari suatu produk bisa saja Laptop atau HP.
