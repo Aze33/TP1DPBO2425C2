@@ -9,6 +9,7 @@ Konsep Desain
 - jenisBarang  : Untuk mengidentifikasi jenis barang dari suatu produk bisa saja Laptop atau HP.
 - merek        : Untuk menamai merek dari sebuah produk
 - berat        : Untuk mengetahui berat suatu produk dalam satuan kilogram.
+- gambar(PHP)  : Untuk menampilkan gambar produk
 
 **Flow Kode**
 
